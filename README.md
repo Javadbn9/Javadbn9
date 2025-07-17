@@ -9,3 +9,4 @@
 - PHP / MySQL
 - Python (Machine Learning)
 - Git / GitHub
+- Terminal
